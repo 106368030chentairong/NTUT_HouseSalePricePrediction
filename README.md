@@ -1,2 +1,0 @@
-# NTUT_HouseSalePricePrediction
-NTUT_HouseSalePricePrediction
